@@ -4,7 +4,7 @@ Welcome to my Kubernetes learning repository! This repository contains all the K
 
 ## Table of Contents
 - [Cluster Architecture](K8s-Cluster-Architecture/README.md)
-- [Pod Configurations](pod-configurations/README.md)
+- [Pod Configurations](Pods/README.md)
 - [Services](services/README.md)
 - [Deployments](deployments/README.md)
 - [Getting Started Guide](docs/getting-started.md)
