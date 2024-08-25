@@ -31,5 +31,5 @@ This repository is organized into several sections:
 - [Go to Deployments](deployments/README.md)
 
 ## Getting Started
-If you're new to Kubernetes, start with the [Getting Started Guide](docs/getting-started.md) to set up your environment and understand the basics.
+If you're new to Kubernetes, start with the [Getting Started Guide](K8s-Cluster-Architecture/README.md) to set up your environment and understand the basics.
 
