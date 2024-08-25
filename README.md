@@ -4,7 +4,7 @@ Welcome to my Kubernetes learning repository! This repository contains all the K
 
 ## Table of Contents
 - [Cluster Architecture](K8s-Cluster-Architecture/README.md)
-- [Pod Configurations](pod-configurations/README.md)
+- [Pod Configurations](Pods/README.md)
 - [Services](services/README.md)
 - [Deployments](deployments/README.md)
 - [Getting Started Guide](docs/getting-started.md)
@@ -16,11 +16,11 @@ This repository is organized into several sections:
 
 ### Cluster Architecture
 - Overview of Kubernetes cluster architecture with diagrams.
-- [Go to Cluster Architecture](cluster-architecture/README.md)
+- [Go to Cluster Architecture](K8s-Cluster-Architecture/README.md)
 
 ### Pod Configurations
 - Example YAML files for different types of pods, including explanations and images.
-- [Go to Pod Configurations](pod-configurations/README.md)
+- [Go to Pod Configurations](Pods/README.md)
 
 ### Services
 - Understanding Kubernetes services and how to expose applications.
