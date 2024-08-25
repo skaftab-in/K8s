@@ -32,6 +32,7 @@ spec:
         - name: nginx-server
           image: nginx
 
+```
 
 ```shell
 $ kubectl apply -f repli-def.yaml

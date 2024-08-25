@@ -43,6 +43,7 @@ spec:
      image: nginx
      ports:
      - containerPort: 80
+```
 
 ```shell
 $ kubectl create -f def.yaml
