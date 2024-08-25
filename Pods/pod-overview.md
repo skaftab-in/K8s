@@ -47,7 +47,7 @@ spec:
 ```shell
 $ kubectl create -f def.yaml
 ```
-'or'
+`or`
 ```shell
 $ kubectl apply -f def.yaml
 ```
