@@ -33,10 +33,27 @@ Here’s a simple example of a Kubernetes pod definition YAML file that runs an 
 apiVersion: v1
 kind: Pod
 metadata:
-  name: nginx-pod
+ name: nginx
+ labels:
+   name: web-app
+   tier: single
 spec:
   containers:
-  - name: nginx-container
-    image: nginx:latest
-    ports:
-    - containerPort: 80
+  -  name: nginx
+     image: nginx
+     ports:
+     - containerPort: 80
+
+```shell
+$ kubectl create -f def.yaml
+```
+'or'
+```shell
+$ kubectl apply -f def.yaml
+```
+ Ref
+```shell
+https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
+```
+
+
