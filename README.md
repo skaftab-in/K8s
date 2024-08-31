@@ -7,7 +7,7 @@ Welcome to my Kubernetes learning repository! This repository contains all the K
 - [Pod Configurations](Pods/README.md)
 - [ReplicaSets](replicasets/README.md)   <!-- New Section Added -->
 - [Deployments](Deployments/README.md)
-#- [Services](services/README.md)
+- [Services]()
 
 ## Overview
 
@@ -30,8 +30,8 @@ This repository is organized into several sections:
 - [Go to Deployments](Deployments/README.md)
 
 ### Services
-#- Understanding Kubernetes services and how to expose applications.
-#- [Go to Services](services/README.md)
+- Understanding Kubernetes services and how to expose applications.
+- [Go to Services]()
 
 ## Getting Started
 If you're new to Kubernetes, start with the [Getting Started Guide](K8s-Cluster-Architecture) to set up your environment and understand the basics.
